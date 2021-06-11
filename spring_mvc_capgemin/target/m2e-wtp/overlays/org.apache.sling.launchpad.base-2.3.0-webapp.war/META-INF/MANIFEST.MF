@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: justin
+Build-Jdk: 1.6.0_22
+Implementation-Title: Apache Sling Launchpad Base
+Implementation-Version: 2.3.0
+Implementation-Vendor-Id: org.apache.sling
+Implementation-Vendor: The Apache Software Foundation
+
